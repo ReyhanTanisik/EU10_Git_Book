@@ -1,2 +1,4 @@
 Java is fun
 adding more text
+
+updating notes
